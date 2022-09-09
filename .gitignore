@@ -1,3 +1,6 @@
+# Local virtual environments
+proj1VENV/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
